@@ -50,9 +50,9 @@ cd test    # Перейти в папку тест:
 	3.
 
 * Ссылки. Чтобв создать ссылку, пишем "(Название для ссылки] (https://qeep.pro)
-   * Фотография вставлсяется с помощью ссылки с восклицательным знаком: "! [] ( http://pokemongogid.ru/wp-content/uploads/2016/08/kak-poluchit-pikachu-v-pokemon-go6.jpg  )
+   * Фотография вставлсяется с помощью ссылки с восклицательным знаком: "! [] (go6.jpg  )
  
- Пример фотографии: ![Фотография] (http://pokemongogid.ru/wp-content/uploads/2016/08/kak-poluchit-pikachu-v-pokemon-go6.jpg)
+ Пример фотографии: ![Фотография](https://pbs.twimg.com/profile_images/54789364/JPG-logo-highres.jpg) 
 
 
 ### Таблицы 
